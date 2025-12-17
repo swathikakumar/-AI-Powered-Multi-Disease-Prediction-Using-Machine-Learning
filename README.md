@@ -91,19 +91,8 @@ Real-time prediction results
 
 User-friendly and responsive UI
 
-📊 About
+<img width="900" height="380" alt="image" src="https://github.com/user-attachments/assets/b6e5d440-7452-4dfb-9c65-c0c314ca8b22" />
 
-This project demonstrates the practical application of Machine Learning in Healthcare, focusing on preventive diagnosis, accuracy, and real-time decision support systems.
-
-🚀 Future Enhancements
-
-Addition of more disease prediction models
-
-Deep learning–based disease diagnosis
-
-Real-time patient data integration
-
-Mobile and cloud-based deployment
 
 
 RUN COMMANDS:
