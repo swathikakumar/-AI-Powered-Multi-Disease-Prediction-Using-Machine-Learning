@@ -90,8 +90,11 @@ Interactive Streamlit web application
 Real-time prediction results
 
 User-friendly and responsive UI
+<img width="1902" height="952" alt="image" src="https://github.com/user-attachments/assets/8c01ddac-199d-4e75-a144-ccc10602c4a4" />
+<img width="1905" height="871" alt="image" src="https://github.com/user-attachments/assets/f0d447f8-ced4-4262-a24c-ecdd6cb995e4" />
+<img width="1792" height="840" alt="image" src="https://github.com/user-attachments/assets/03678709-9e1c-4005-baf4-f2eb812078ce" />
 
-<img width="900" height="380" alt="image" src="https://github.com/user-attachments/assets/b6e5d440-7452-4dfb-9c65-c0c314ca8b22" />
+
 
 
 
